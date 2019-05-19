@@ -12,7 +12,10 @@ body {
 	font-family: 'Monofett', cursive;
 }
 h1{
-    margin-top: 5px;
+	font-size: 80px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+
 }
 
 /* image */
